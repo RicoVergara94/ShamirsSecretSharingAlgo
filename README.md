@@ -18,7 +18,7 @@ A maven project app implementing Shamir's Secret Sharing Algorithm to reassemble
     * Compiles source code of the project.
     
 3. `mvn test`
-    * Runs tests for the project.
+    * Runs the unit tests for the project.
     
 4. `mvn install`
     * Deploys the packaged JAR/ WAR file to the local repository.
